@@ -1,6 +1,5 @@
-import React from 'react'
+import BgFruits from "../../assets/Fruits-Banner.jpg"
 import CategoryPage from '../CategoryPage/CategoryPage'
-import BgFruits from "../../assets/fruits-Banner.jpg"
 
 const Fruits = () => {
   return (
