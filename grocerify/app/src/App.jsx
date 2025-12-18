@@ -1,7 +1,7 @@
 import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import Layout from './components/Layout/layout';
+import Layout from './components/Layout/Layout';
 import Home from './components/Home/home';
 import Fruits from './components/Fruits/fruits';
 import Dairy from './components/Dairy/dairy';
