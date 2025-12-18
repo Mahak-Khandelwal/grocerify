@@ -5,7 +5,7 @@ import Layout from './components/Layout/Layout';
 import Home from './components/Home/home';
 import Fruits from './components/Fruits/fruits';
 import Dairy from './components/Dairy/dairy';
-import SeaFood from './components/SeaFood/seafood';
+import SeaFood from './components/SeaFood/SeaFood';
 import AllProducts from './components/AllProducts/AllProducts';
 
 const router = createBrowserRouter([
