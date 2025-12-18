@@ -1,8 +1,8 @@
 import React from "react";
-import Heading from "../Heading/heading";
-import FruitsCat from "../../assets/fruits&Veggies.png";
-import DairyCat from "../../assets/Dairy.png";
-import SeaCat from "../../assets/sea.jpg";
+import Heading from "../Heading/Heading";
+import FruitsCat from './../../assets/fruits&veggies.png';
+import DairyCat from './../../assets/dairy.png';
+import SeaCat from './../../assets/sea.jpg';
 import { Link } from "react-router-dom";
 
 const Category = () => {

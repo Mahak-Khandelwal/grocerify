@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../Button/button";
-import FreshFruits from "../../assets/Fresh-Fruits.png"
+import FreshFruits from './../../assets/fresh-fruits.png'
 
 const discount = () => {
   return (

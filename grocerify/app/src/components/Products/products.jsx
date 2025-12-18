@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Heading from "../Heading/heading";
+import Heading from "../Heading/Heading";
 import ProductList from "../ProductList/productlist";
 import Cards from "../Cards/cards";
 import { Link } from "react-router-dom";

@@ -1,4 +1,4 @@
-import BgFruits from "../../assets/Fruits-Banner.jpg"
+import BgFruits from './../../assets/Fruits-Banner.jpg'
 import CategoryPage from '../CategoryPage/CategoryPage'
 
 const Fruits = () => {
