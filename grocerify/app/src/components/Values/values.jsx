@@ -1,5 +1,6 @@
 import { FaHeart, FaLeaf, FaSeedling, FaShieldAlt } from "react-icons/fa";
 import vg from './../../assets/vg.jpeg';
+import Heading from "../Heading/Heading.jsx";
 
 const Values = () => {
   const LeftValues = value.slice(0, 2).map((item) => {
