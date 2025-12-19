@@ -4,7 +4,7 @@ import Dairy from './components/Dairy/dairy.jsx';
 import Fruits from './components/Fruits/fruits.jsx';
 import Home from './components/Home/home.jsx';
 import Layout from './components/Layout/Layout.jsx';
-import Seafood from './components/SeaFood/seafood.jsx';
+import Seafood from './components/SeaFood/SeaFood.jsx';
 
 const router = createBrowserRouter([
   {
