@@ -1,16 +1,16 @@
-import React from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Navigation } from "swiper/modules";
-import Heading from "../Heading/Heading";
+import { FaStar } from "react-icons/fa";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
+import 'swiper/css';
+import 'swiper/css/navigation';
+import { Navigation } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
+
 import Customer1 from './../../assets/customer1.jpg';
 import Customer2 from './../../assets/customer2.jpg';
 import Customer3 from './../../assets/customer3.jpg';
 import Customer4 from './../../assets/customer4.jpg';
 import Customer5 from './../../assets/customer5.jpg';
-import 'swiper/css';
-import 'swiper/css/navigation';
-import { FaStar } from "react-icons/fa";
+import Heading from "../Heading/Heading.jsx";
 
 const Testimonials = () => {
   return (

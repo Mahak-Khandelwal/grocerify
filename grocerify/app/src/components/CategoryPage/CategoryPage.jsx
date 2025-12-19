@@ -1,8 +1,7 @@
 
-import React from 'react'
-import Banner from '../Banner/Banner'
-import ProductList from "../ProductList/productlist"
-import Cards from '../Cards/cards'
+import Banner from '../Banner/Banner.jsx'
+import Cards from '../Cards/cards.jsx'
+import ProductList from "../ProductList/productlist.jsx"
 
 const CategoryPage = ({title, bgImage, categories=[]}) => {
 

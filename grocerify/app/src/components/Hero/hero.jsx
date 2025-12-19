@@ -1,6 +1,5 @@
-import React from "react";
+import Button from "../Button/button.jsx";
 import basket from './../../assets/basket.png';
-import Button from "../Button/button";
 
 const Hero = () => {
   return (

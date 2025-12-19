@@ -1,5 +1,5 @@
 import React from "react";
-import Heading from "../Heading/Heading";
+import Heading from "../Heading/Heading.jsx";
 import {
   TbCircleNumber1Filled,
   TbCircleNumber2Filled,

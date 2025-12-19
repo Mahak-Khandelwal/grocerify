@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import Heading from "../Heading/Heading";
-import ProductList from "../ProductList/productlist";
-import Cards from "../Cards/cards";
+import Heading from "../Heading/Heading.jsx";
+import ProductList from "../ProductList/productlist.jsx";
+import Cards from "../Cards/cards.jsx";
 import { Link } from "react-router-dom";
 
 const Products = () => {

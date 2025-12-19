@@ -1,12 +1,10 @@
 import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import Layout from './components/Layout/Layout';
-import Home from './components/Home/home';
-import Fruits from './components/Fruits/fruits';
-import Dairy from './components/Dairy/dairy';
-import SeaFood from './components/SeaFood/SeaFood';
-import AllProducts from './components/AllProducts/AllProducts';
+import Layout from './components/Layout/Layout.jsx';
+import Home from './components/Home/home.jsx';
+import Fruits from './components/Fruits/fruits.jsx';
+import Dairy from './components/Dairy/dairy.jsx';
 
 const router = createBrowserRouter([
   {

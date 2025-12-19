@@ -1,5 +1,5 @@
 import React from 'react'
-import CategoryPage from "../CategoryPage/CategoryPage"
+import CategoryPage from "../CategoryPage/CategoryPage.jsx"
 import BgDairy from './../../assets/dairy-banner.jpg'
 
 const dairy = () => {

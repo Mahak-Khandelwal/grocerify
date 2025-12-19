@@ -1,9 +1,8 @@
-import React from "react";
-import Heading from "../Heading/Heading";
-import FruitsCat from './../../assets/fruits&veggies.png';
-import DairyCat from './../../assets/dairy.png';
-import SeaCat from './../../assets/sea.jpg';
 import { Link } from "react-router-dom";
+import Heading from "../Heading/Heading.jsx";
+import DairyCat from './../../assets/dairy.png';
+import FruitsCat from './../../assets/fruits&veggies.png';
+import SeaCat from './../../assets/sea.jpg';
 
 const Category = () => {
   const renderCards = category.map((card) => {

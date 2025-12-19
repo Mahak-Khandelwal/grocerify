@@ -1,5 +1,3 @@
-import React from "react";
-import Heading from "../Heading/Heading";
 import { FaHeart, FaLeaf, FaSeedling, FaShieldAlt } from "react-icons/fa";
 import vg from './../../assets/vg.jpeg';
 

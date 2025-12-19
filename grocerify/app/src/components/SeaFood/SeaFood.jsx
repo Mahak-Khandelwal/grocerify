@@ -1,5 +1,5 @@
 import React from 'react'
-import CategoryPage from '../CategoryPage/CategoryPage'
+import CategoryPage from '../CategoryPage/CategoryPage.jsx'
 import BgSeaFood from './../../assets/seafood-banner.jpg' 
 
 
