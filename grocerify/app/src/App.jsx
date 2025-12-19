@@ -5,6 +5,7 @@ import Fruits from './components/Fruits/fruits.jsx';
 import Home from './components/Home/home.jsx';
 import Layout from './components/Layout/Layout.jsx';
 import Seafood from './components/SeaFood/SeaFood.jsx';
+import AllProducts from './components/AllProducts/allproducts.jsx';
 
 const router = createBrowserRouter([
   {
