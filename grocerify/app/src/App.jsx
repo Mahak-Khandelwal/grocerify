@@ -1,10 +1,10 @@
-import React from 'react';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
-import Layout from './components/Layout/Layout.jsx';
-import Home from './components/Home/home.jsx';
-import Fruits from './components/Fruits/fruits.jsx';
 import Dairy from './components/Dairy/dairy.jsx';
+import Fruits from './components/Fruits/fruits.jsx';
+import Home from './components/Home/home.jsx';
+import Layout from './components/Layout/Layout.jsx';
+import Seafood from './components/SeaFood/seafood.jsx';
 
 const router = createBrowserRouter([
   {
@@ -25,7 +25,7 @@ const router = createBrowserRouter([
       },
       {
         path: 'seafood',
-        element: <SeaFood />,
+        element: <Seafood />,
       },
       {
         path: 'allproducts',
